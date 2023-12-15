@@ -10,6 +10,7 @@ body {
  background-image: url("../Assest/Images/blueBackGround.avif");
 }
 
+
 .calculator-grid {
   display: grid;
   justify-content: center;
@@ -55,4 +56,5 @@ body {
 .output .current-operand {
   color: white;
   font-size: 2.5rem;
+}
 }
